@@ -1,3 +1,4 @@
+//Create friends array of objects to store each friend's data
 var friends = [
     {
         "name":"Ahmed",
