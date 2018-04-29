@@ -4,6 +4,11 @@ var express = require('express');
 var router = express.Router();
 var friends = require('../data/friends.js');
 
+// ROUTING
+// ===============================================================================
+
+ 
+// API GET Requests
 router.get('/api/friends', function(req, res) {
 	res.json(friends);
 });

@@ -52,4 +52,5 @@ var friends = [
         }
 ];
 
+//Export the array
 module.exports = friends;
