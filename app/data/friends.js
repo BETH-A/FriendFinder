@@ -8,7 +8,7 @@ var friends = [
       {
         name:"Charlotte",
         photo:"http://lorempixel.com/g/400/200/abstract/2",
-        scores:[2, 4, 3, 1, 5, 4, 3, 2, 1, 5]
+        scores:[2, 4, 3, 1, 5, 4, 3, 2, 1, 5] 
       },
       {
         name:"Sean",
